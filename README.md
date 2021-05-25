@@ -2,6 +2,16 @@
 
 This script checks finnish lotto numbers
 
+Usage without checklist:
+```
+python3 app.py
+```
+
+Usage with checklist:
+```
+python3 app.py lista
+```
+
 Example output:
 
 ```
