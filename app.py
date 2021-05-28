@@ -45,3 +45,4 @@ if len(data) > 0:
 else:   
     print("Tällä viikolla ei ole vielä arvottu lottoa.")
 print("*** By Topias Mariapori ***")
+input("Paina enter sulkeaksesi")
